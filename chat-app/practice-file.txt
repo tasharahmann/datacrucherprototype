@@ -1,0 +1,24 @@
+Welcome to Nano Practice!
+========================
+
+This is a safe file for you to practice editing with nano.
+
+Instructions:
+1. Open this file with: nano practice-file.txt
+2. Use arrow keys to move around
+3. Try editing this text
+4. Add your name here: _______________
+5. Save with Ctrl+O, then press Enter
+6. Exit with Ctrl+X
+
+Practice Tasks:
+- Delete this line by pressing Ctrl+K when your cursor is on it
+- Add a new line below this one
+- Search for the word "practice" using Ctrl+W
+
+Tips:
+- Don't be afraid to experiment!
+- If you mess up, just exit without saving (Ctrl+X, then press N)
+- The commands are always shown at the bottom of the screen
+
+Happy editing!
